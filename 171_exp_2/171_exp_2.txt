@@ -1,0 +1,4 @@
+1. html page registration.html
+2. background color whitesmoke
+3. use table for alignment
+4. provide font for color and size

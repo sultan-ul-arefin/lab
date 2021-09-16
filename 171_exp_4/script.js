@@ -1,0 +1,6 @@
+function check() {
+
+}
+function reset() {
+
+}

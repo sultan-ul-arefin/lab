@@ -1,0 +1,4 @@
+1. Create an html file by applying the different stye using
+	i) inline
+	ii) external
+	iii) internal

@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>
+        182 Exp 2
+    </title>
+    <style>
+        html,
+        body {
+            height: 100%;
+        }
+
+        html {
+            display: table;
+            margin: auto;
+        }
+
+        body {
+            display: table-cell;
+            vertical-align: middle;
+        }
+
+        .border-1 {
+            border: 1px solid black;
+        }
+
+        .padding10 {
+            padding: 10px;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="border-1 padding10">
+        <h1>User Input Form</h1>
+        <form>
+            <fieldset>
+                <legend>
+                    Personal Particular
+                </legend>
+                Username:
+                <input type="text" name="username">
+                <br>
+                <br>
+                Password:
+                <input type="password" name="user-pwd" id="user-password">
+                <br>
+                <br>
+                Gender:
+                <input type="radio" name="gender" id="male">
+                <label for="male">Male</label>
+
+                <input type="radio" name="gender" id="female">
+                <label for="female">Female</label>
+                <br>
+                Age:
+                <select name="age" id="age">
+                    <option value="1">1 year old</option>
+                    <option value="2">2 year old</option>
+                </select>
+            </fieldset>
+
+            <br>
+            <fieldset>
+                <legend>
+                    Language
+                </legend>
+                <input type="checkbox" name="subject" id="maths">
+                <label for="maths">Maths</label>
+                <input type="checkbox" name="subject" id="science">
+                <label for="science">Science</label>
+                <input type="checkbox" name="subject" id="english">
+                <label for="english">English</label>
+            </fieldset>
+            <fieldset>
+                <legend>
+                    Instraction
+                </legend>
+                <textarea rows="5" cols="50" name="Description" id="Description"></textarea>
+
+            </fieldset>
+            <br><br>
+            <input type="submit" value="Send">
+            <button>Clear</button>
+        </form>
+    </div>
+
+
+</body>
+
+</html>

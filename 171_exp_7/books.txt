@@ -1,0 +1,30 @@
+ class Library{
+
+             var $books = array();
+
+            function addBook($bok){
+                $this->$books[] = $bok;
+            }
+
+            function displayBooks(){
+                foreach($books as $b){
+                    $b->display();
+                }
+            }
+        }
+
+        class Book{
+            var $title;
+            function __construct($name){
+                $this->title = $name;
+            }
+
+            function display(){
+                echo $this->title;
+            }
+        }
+
+
+        $lib = new Library();
+        $lib->addBook(new Book("Test Title"));
+        $lib->displayBooks();

@@ -1,0 +1,2 @@
+1. Search page - maximum price - category
+2. Books page - list of book of the condition

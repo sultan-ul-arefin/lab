@@ -1,0 +1,11 @@
+1. html file validate_registration.html and registration form
+2. reset() with manually
+3. check() for validate data
+	3.1 blank data validation
+	3.2 if all valid data then make submit button visible
+Enable a button
+
+document.getElementById("Button").disabled=false;
+Disable a button
+
+ document.getElementById("Button").disabled=true;

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="student.xsl"?><VTU>
+<STUDENT>
+<USN>1GD11CS001</USN>
+<NAME>Arun Kumar</NAME>
+<COLLEGE> College of Engineering</COLLEGE>
+<BRANCH>Computer Science and Engineering</BRANCH>
+<YEAR>2011</YEAR>
+<EMAILID>arunk@gmail.com</EMAILID>
+</STUDENT>
+<STUDENT>
+<USN>1GD10ME012</USN>
+<NAME>Swaroop J</NAME>
+<COLLEGE> College of Engineering</COLLEGE>
+<BRANCH>Mechanical Engineering</BRANCH>
+<YEAR>2010</YEAR>
+<EMAILID>swaroopj@gmail.com</EMAILID>
+</STUDENT>
+<STUDENT>
+<USN>1GD12CS030</USN>
+<NAME>Pradeep L</NAME>
+<COLLEGE>College of Engineering</COLLEGE>
+<BRANCH> Computer Science and Engineering </BRANCH>
+<YEAR>2012</YEAR>
+<EMAILID>spradeepl@gmail.com</EMAILID>
+</STUDENT>
+</VTU>

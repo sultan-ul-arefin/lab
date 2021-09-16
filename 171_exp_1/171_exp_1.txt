@@ -1,0 +1,9 @@
+1. title - "Simple HTML Tags"
+2(1). moving text - "Bangladesh Open University"
+2(2). different headding tags h1 - h6
+2(3). Paragraph
+2(4). Horizontal line
+2(5). Line Break
+2(6). Pre tag
+2(7). Logical Style (<b>,<sub>,<sup>)
+2(8). Listing tag (2 types with & each type with different attribute)
